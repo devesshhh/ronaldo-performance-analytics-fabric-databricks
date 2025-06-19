@@ -1,0 +1,483 @@
+Match_Date,Home_Team,Away_Team,Goals,Assists,Minutes_Played,Yellow_Cards,Red_Cards
+2012-08-19,Real Madrid Club de Fútbol,Valencia Club de Fútbol S. A. D.,0,0,90,0,0
+2012-08-22,Futbol Club Barcelona,Real Madrid Club de Fútbol,1,0,90,0,0
+2012-08-26,Getafe Club de Fútbol S.A.D. Team Dubai,Real Madrid Club de Fútbol,0,0,90,0,0
+2012-08-29,Real Madrid Club de Fútbol,Futbol Club Barcelona,1,0,90,0,0
+2012-09-02,Real Madrid Club de Fútbol,Granada CF,2,0,63,0,0
+2012-09-15,Sevilla Fútbol Club S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2012-09-18,Real Madrid Club de Fútbol,Manchester City Football Club,1,0,90,0,0
+2012-09-24,Rayo Vallecano de Madrid S.A.D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2012-09-30,Real Madrid Club de Fútbol,Deportivo de La Coruña,3,0,90,0,0
+2012-10-03,AFC Ajax Amsterdam,Real Madrid Club de Fútbol,3,0,90,0,0
+2012-10-07,Futbol Club Barcelona,Real Madrid Club de Fútbol,2,0,90,0,0
+2012-10-20,Real Madrid Club de Fútbol,Real Club Celta de Vigo S. A. D.,1,0,90,0,0
+2012-10-24,Borussia Dortmund,Real Madrid Club de Fútbol,1,0,90,0,0
+2012-10-28,Real Club Deportivo Mallorca S.A.D.,Real Madrid Club de Fútbol,2,1,90,0,0
+2012-11-03,Real Madrid Club de Fútbol,Real Zaragoza,0,0,90,0,0
+2012-11-06,Real Madrid Club de Fútbol,Borussia Dortmund,0,0,90,0,0
+2012-11-11,Levante UD,Real Madrid Club de Fútbol,1,0,45,1,0
+2012-11-17,Real Madrid Club de Fútbol,Athletic Club Bilbao,0,0,90,0,0
+2012-11-21,Manchester City Football Club,Real Madrid Club de Fútbol,0,0,90,0,0
+2012-11-24,Real Betis Balompié S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2012-12-01,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,1,1,90,0,0
+2012-12-04,Real Madrid Club de Fútbol,AFC Ajax Amsterdam,1,1,90,1,0
+2012-12-08,Real Valladolid Club de Fútbol S.A.D.,Real Madrid Club de Fútbol,0,0,90,1,0
+2012-12-12,Real Club Celta de Vigo S. A. D.,Real Madrid Club de Fútbol,1,0,90,1,0
+2012-12-16,Real Madrid Club de Fútbol,Reial Club Deportiu Espanyol de Barcelona S.A.D.,1,1,90,1,0
+2012-12-22,Málaga CF,Real Madrid Club de Fútbol,0,0,90,1,0
+2013-01-06,Real Madrid Club de Fútbol,Real Sociedad de Fútbol S.A.D.,2,0,90,1,0
+2013-01-09,Real Madrid Club de Fútbol,Real Club Celta de Vigo S. A. D.,3,1,90,0,0
+2013-01-15,Real Madrid Club de Fútbol,Valencia Club de Fútbol S. A. D.,0,0,90,0,0
+2013-01-20,Valencia Club de Fútbol S. A. D.,Real Madrid Club de Fútbol,2,1,90,0,0
+2013-01-23,Valencia Club de Fútbol S. A. D.,Real Madrid Club de Fútbol,0,0,90,1,0
+2013-01-27,Real Madrid Club de Fútbol,Getafe Club de Fútbol S.A.D. Team Dubai,3,0,73,0,0
+2013-01-30,Real Madrid Club de Fútbol,Futbol Club Barcelona,0,0,90,0,0
+2013-02-02,Granada CF,Real Madrid Club de Fútbol,0,0,90,0,0
+2013-02-09,Real Madrid Club de Fútbol,Sevilla Fútbol Club S.A.D.,3,1,62,0,0
+2013-02-13,Real Madrid Club de Fútbol,Manchester United Football Club,1,0,90,0,0
+2013-02-17,Real Madrid Club de Fútbol,Rayo Vallecano de Madrid S.A.D.,0,0,90,1,0
+2013-02-23,Deportivo de La Coruña,Real Madrid Club de Fútbol,0,1,33,0,0
+2013-02-26,Futbol Club Barcelona,Real Madrid Club de Fútbol,2,0,90,0,0
+2013-03-02,Real Madrid Club de Fútbol,Futbol Club Barcelona,0,0,33,0,0
+2013-03-05,Manchester United Football Club,Real Madrid Club de Fútbol,1,0,90,0,0
+2013-03-10,Real Club Celta de Vigo S. A. D.,Real Madrid Club de Fútbol,2,0,90,0,0
+2013-03-16,Real Madrid Club de Fútbol,Real Club Deportivo Mallorca S.A.D.,1,0,90,0,0
+2013-03-30,Real Zaragoza,Real Madrid Club de Fútbol,1,0,90,0,0
+2013-04-03,Real Madrid Club de Fútbol,Galatasaray Spor Kulübü,1,0,90,0,0
+2013-04-06,Real Madrid Club de Fútbol,Levante UD,1,1,45,0,0
+2013-04-09,Galatasaray Spor Kulübü,Real Madrid Club de Fútbol,2,0,90,0,0
+2013-04-14,Athletic Club Bilbao,Real Madrid Club de Fútbol,2,1,79,0,0
+2013-04-20,Real Madrid Club de Fútbol,Real Betis Balompié S.A.D.,0,1,90,1,0
+2013-04-24,Borussia Dortmund,Real Madrid Club de Fútbol,1,0,90,0,0
+2013-04-30,Real Madrid Club de Fútbol,Borussia Dortmund,0,0,90,0,0
+2013-05-04,Real Madrid Club de Fútbol,Real Valladolid Club de Fútbol S.A.D.,2,0,90,0,0
+2013-05-08,Real Madrid Club de Fútbol,Málaga CF,1,2,90,1,0
+2013-05-11,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Real Madrid Club de Fútbol,0,0,34,1,0
+2013-05-17,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,1,0,115,1,1
+2013-08-18,Real Madrid Club de Fútbol,Real Betis Balompié S.A.D.,0,0,90,0,0
+2013-08-26,Granada CF,Real Madrid Club de Fútbol,0,1,90,0,0
+2013-09-01,Real Madrid Club de Fútbol,Athletic Club Bilbao,1,0,90,0,0
+2013-09-14,Villarreal Club de Fútbol S.A.D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2013-09-17,Galatasaray Spor Kulübü,Real Madrid Club de Fútbol,3,1,90,0,0
+2013-09-22,Real Madrid Club de Fútbol,Getafe Club de Fútbol S.A.D. Team Dubai,2,2,90,0,0
+2013-09-25,Elche CF,Real Madrid Club de Fútbol,2,0,90,1,0
+2013-09-28,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,0,0,90,0,0
+2013-10-02,Real Madrid Club de Fútbol,Football Club København,2,0,90,0,0
+2013-10-05,Levante UD,Real Madrid Club de Fútbol,1,0,90,1,0
+2013-10-19,Real Madrid Club de Fútbol,Málaga CF,1,0,90,0,0
+2013-10-23,Real Madrid Club de Fútbol,Juventus Football Club,2,0,90,0,0
+2013-10-26,Futbol Club Barcelona,Real Madrid Club de Fútbol,0,1,90,1,0
+2013-10-30,Real Madrid Club de Fútbol,Sevilla Fútbol Club S.A.D.,3,0,90,0,0
+2013-11-02,Rayo Vallecano de Madrid S.A.D.,Real Madrid Club de Fútbol,2,0,90,0,0
+2013-11-05,Juventus Football Club,Real Madrid Club de Fútbol,1,1,90,0,0
+2013-11-09,Real Madrid Club de Fútbol,Real Sociedad de Fútbol S.A.D.,3,1,90,0,0
+2013-11-23,UD Almería,Real Madrid Club de Fútbol,1,0,54,0,0
+2013-12-10,Football Club København,Real Madrid Club de Fútbol,1,0,90,0,0
+2013-12-14,Club Atlético Osasuna,Real Madrid Club de Fútbol,0,1,90,0,0
+2013-12-22,Valencia Club de Fútbol S. A. D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2014-01-06,Real Madrid Club de Fútbol,Real Club Celta de Vigo S. A. D.,2,0,90,0,0
+2014-01-09,Real Madrid Club de Fútbol,Club Atlético Osasuna,0,1,90,0,0
+2014-01-12,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2014-01-15,Club Atlético Osasuna,Real Madrid Club de Fútbol,1,0,62,0,0
+2014-01-18,Real Betis Balompié S.A.D.,Real Madrid Club de Fútbol,1,1,90,0,0
+2014-01-21,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2014-01-25,Real Madrid Club de Fútbol,Granada CF,1,0,90,0,0
+2014-01-28,Real Madrid Club de Fútbol,Reial Club Deportiu Espanyol de Barcelona S.A.D.,0,0,90,1,0
+2014-02-02,Athletic Club Bilbao,Real Madrid Club de Fútbol,0,1,75,0,1
+2014-02-05,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,0,0,90,0,0
+2014-02-11,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,2,0,75,1,0
+2014-02-26,FC Schalke 04,Real Madrid Club de Fútbol,2,2,90,0,0
+2014-03-02,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2014-03-09,Real Madrid Club de Fútbol,Levante UD,1,1,90,0,0
+2014-03-15,Málaga CF,Real Madrid Club de Fútbol,1,0,90,0,0
+2014-03-18,Real Madrid Club de Fútbol,FC Schalke 04,2,0,90,0,0
+2014-03-23,Real Madrid Club de Fútbol,Futbol Club Barcelona,1,0,90,1,0
+2014-03-26,Sevilla Fútbol Club S.A.D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2014-03-29,Real Madrid Club de Fútbol,Rayo Vallecano de Madrid S.A.D.,1,1,90,0,0
+2014-04-02,Real Madrid Club de Fútbol,Borussia Dortmund,1,0,80,0,0
+2014-04-23,Real Madrid Club de Fútbol,FC Bayern München,0,0,73,0,0
+2014-04-26,Real Madrid Club de Fútbol,Club Atlético Osasuna,2,0,62,0,0
+2014-04-29,FC Bayern München,Real Madrid Club de Fútbol,2,0,90,0,0
+2014-05-04,Real Madrid Club de Fútbol,Valencia Club de Fútbol S. A. D.,1,1,90,0,0
+2014-05-07,Real Valladolid Club de Fútbol S.A.D.,Real Madrid Club de Fútbol,0,0,9,0,0
+2014-05-24,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,1,1,120,1,0
+2014-08-12,Real Madrid Club de Fútbol,Sevilla Fútbol Club S.A.D.,2,0,90,0,0
+2014-08-19,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,0,0,45,0,0
+2014-08-22,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,0,0,45,1,0
+2014-08-25,Real Madrid Club de Fútbol,Córdoba CF,1,0,90,0,0
+2014-09-13,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,1,0,90,0,0
+2014-09-16,Real Madrid Club de Fútbol,,1,1,90,0,0
+2014-09-20,Deportivo de La Coruña,Real Madrid Club de Fútbol,3,0,90,0,0
+2014-09-23,Real Madrid Club de Fútbol,Elche CF,4,0,90,0,0
+2014-09-27,Villarreal Club de Fútbol S.A.D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2014-10-01,,Real Madrid Club de Fútbol,1,0,90,0,0
+2014-10-05,Real Madrid Club de Fútbol,Athletic Club Bilbao,3,1,90,0,0
+2014-10-18,Levante UD,Real Madrid Club de Fútbol,2,0,90,0,0
+2014-10-22,Liverpool Football Club,Real Madrid Club de Fútbol,1,0,75,0,0
+2014-10-25,Real Madrid Club de Fútbol,Futbol Club Barcelona,1,0,90,1,0
+2014-11-01,Granada CF,Real Madrid Club de Fútbol,1,2,90,0,0
+2014-11-04,Real Madrid Club de Fútbol,Liverpool Football Club,0,0,90,0,0
+2014-11-08,Real Madrid Club de Fútbol,Rayo Vallecano de Madrid S.A.D.,1,2,90,0,0
+2014-11-22,SD Eibar,Real Madrid Club de Fútbol,2,1,83,0,0
+2014-11-26,,Real Madrid Club de Fútbol,1,0,90,0,0
+2014-11-29,Málaga CF,Real Madrid Club de Fútbol,0,2,90,0,0
+2014-12-06,Real Madrid Club de Fútbol,Real Club Celta de Vigo S. A. D.,3,0,85,0,0
+2014-12-09,Real Madrid Club de Fútbol,,1,1,90,0,0
+2014-12-12,UD Almería,Real Madrid Club de Fútbol,2,0,90,1,0
+2014-12-16,,Real Madrid Club de Fútbol,0,2,90,0,0
+2014-12-20,Real Madrid Club de Fútbol,,0,0,90,0,0
+2015-01-04,Valencia Club de Fútbol S. A. D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2015-01-07,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,0,0,27,0,0
+2015-01-10,Real Madrid Club de Fútbol,Reial Club Deportiu Espanyol de Barcelona S.A.D.,0,1,90,1,0
+2015-01-15,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,1,0,90,0,0
+2015-01-18,Getafe Club de Fútbol S.A.D. Team Dubai,Real Madrid Club de Fútbol,2,0,90,0,0
+2015-01-24,Córdoba CF,Real Madrid Club de Fútbol,0,0,83,0,1
+2015-02-07,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2015-02-14,Real Madrid Club de Fútbol,Deportivo de La Coruña,0,1,90,0,0
+2015-02-18,FC Schalke 04,Real Madrid Club de Fútbol,1,1,90,0,0
+2015-02-22,Elche CF,Real Madrid Club de Fútbol,1,0,90,0,0
+2015-03-01,Real Madrid Club de Fútbol,Villarreal Club de Fútbol S.A.D.,1,0,90,0,0
+2015-03-07,Athletic Club Bilbao,Real Madrid Club de Fútbol,0,0,90,0,0
+2015-03-10,Real Madrid Club de Fútbol,FC Schalke 04,2,0,90,1,0
+2015-03-15,Real Madrid Club de Fútbol,Levante UD,0,1,90,0,0
+2015-03-22,Futbol Club Barcelona,Real Madrid Club de Fútbol,1,0,90,1,0
+2015-04-05,Real Madrid Club de Fútbol,Granada CF,5,0,90,0,0
+2015-04-08,Rayo Vallecano de Madrid S.A.D.,Real Madrid Club de Fútbol,1,1,90,0,0
+2015-04-11,Real Madrid Club de Fútbol,SD Eibar,1,0,90,0,0
+2015-04-14,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2015-04-18,Real Madrid Club de Fútbol,Málaga CF,1,2,90,0,0
+2015-04-22,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,0,1,90,0,0
+2015-04-26,Real Club Celta de Vigo S. A. D.,Real Madrid Club de Fútbol,0,2,90,0,0
+2015-04-29,Real Madrid Club de Fútbol,UD Almería,0,0,90,0,0
+2015-05-02,Sevilla Fútbol Club S.A.D.,Real Madrid Club de Fútbol,3,0,90,0,0
+2015-05-05,Juventus Football Club,Real Madrid Club de Fútbol,1,0,90,0,0
+2015-05-09,Real Madrid Club de Fútbol,Valencia Club de Fútbol S. A. D.,0,0,90,0,0
+2015-05-13,Real Madrid Club de Fútbol,Juventus Football Club,1,0,90,0,0
+2015-05-17,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Real Madrid Club de Fútbol,3,1,90,0,0
+2015-05-23,Real Madrid Club de Fútbol,Getafe Club de Fútbol S.A.D. Team Dubai,3,0,58,0,0
+2015-08-23,Sporting Gijón,Real Madrid Club de Fútbol,0,0,90,0,0
+2015-08-29,Real Madrid Club de Fútbol,Real Betis Balompié S.A.D.,0,0,90,0,0
+2015-09-12,Reial Club Deportiu Espanyol de Barcelona S.A.D.,Real Madrid Club de Fútbol,5,1,90,0,0
+2015-09-15,Real Madrid Club de Fútbol,FC Shakhtar Donetsk,3,0,90,0,0
+2015-09-19,Real Madrid Club de Fútbol,Granada CF,0,0,90,0,0
+2015-09-23,Athletic Club Bilbao,Real Madrid Club de Fútbol,0,0,90,1,0
+2015-09-26,Real Madrid Club de Fútbol,Málaga CF,0,0,90,1,0
+2015-09-30,,Real Madrid Club de Fútbol,2,0,90,0,0
+2015-10-04,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2015-10-17,Real Madrid Club de Fútbol,Levante UD,1,1,90,0,0
+2015-10-21,Paris Saint-Germain Football Club,Real Madrid Club de Fútbol,0,0,90,0,0
+2015-10-24,Real Club Celta de Vigo S. A. D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2015-10-31,Real Madrid Club de Fútbol,Unión Deportiva Las Palmas S.A.D.,1,0,90,0,0
+2015-11-03,Real Madrid Club de Fútbol,Paris Saint-Germain Football Club,0,0,90,0,0
+2015-11-08,Sevilla Fútbol Club S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2015-11-21,Real Madrid Club de Fútbol,Futbol Club Barcelona,0,0,90,0,0
+2015-11-25,FC Shakhtar Donetsk,Real Madrid Club de Fútbol,2,2,90,0,0
+2015-11-29,SD Eibar,Real Madrid Club de Fútbol,1,0,90,0,0
+2015-12-05,Real Madrid Club de Fútbol,Getafe Club de Fútbol S.A.D. Team Dubai,1,1,90,0,0
+2015-12-08,Real Madrid Club de Fútbol,,4,1,90,0,0
+2015-12-13,Villarreal Club de Fútbol S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2015-12-20,Real Madrid Club de Fútbol,Rayo Vallecano de Madrid S.A.D.,2,1,90,0,0
+2015-12-30,Real Madrid Club de Fútbol,Real Sociedad de Fútbol S.A.D.,2,0,90,0,0
+2016-01-03,Valencia Club de Fútbol S. A. D.,Real Madrid Club de Fútbol,0,1,90,0,0
+2016-01-09,Real Madrid Club de Fútbol,Deportivo de La Coruña,0,2,90,0,0
+2016-01-17,Real Madrid Club de Fútbol,Sporting Gijón,2,0,90,0,0
+2016-01-24,Real Betis Balompié S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2016-01-31,Real Madrid Club de Fútbol,Reial Club Deportiu Espanyol de Barcelona S.A.D.,3,0,90,0,0
+2016-02-07,Granada CF,Real Madrid Club de Fútbol,0,0,90,0,0
+2016-02-13,Real Madrid Club de Fútbol,Athletic Club Bilbao,2,1,90,0,0
+2016-02-17,Associazione Sportiva Roma,Real Madrid Club de Fútbol,1,0,89,0,0
+2016-02-21,Málaga CF,Real Madrid Club de Fútbol,1,0,90,0,0
+2016-02-27,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,0,0,90,0,0
+2016-03-02,Levante UD,Real Madrid Club de Fútbol,1,1,90,0,0
+2016-03-05,Real Madrid Club de Fútbol,Real Club Celta de Vigo S. A. D.,4,0,90,0,0
+2016-03-08,Real Madrid Club de Fútbol,Associazione Sportiva Roma,1,1,90,0,0
+2016-03-13,Unión Deportiva Las Palmas S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2016-03-20,Real Madrid Club de Fútbol,Sevilla Fútbol Club S.A.D.,1,0,90,0,0
+2016-04-02,Futbol Club Barcelona,Real Madrid Club de Fútbol,1,0,90,0,0
+2016-04-06,Verein für Leibesübungen Wolfsburg,Real Madrid Club de Fútbol,0,0,90,0,0
+2016-04-09,Real Madrid Club de Fútbol,SD Eibar,1,2,90,0,0
+2016-04-12,Real Madrid Club de Fútbol,Verein für Leibesübungen Wolfsburg,3,0,90,1,0
+2016-04-16,Getafe Club de Fútbol S.A.D. Team Dubai,Real Madrid Club de Fútbol,1,0,90,0,0
+2016-04-20,Real Madrid Club de Fútbol,Villarreal Club de Fútbol S.A.D.,0,0,90,0,0
+2016-05-04,Real Madrid Club de Fútbol,Manchester City Football Club,0,0,90,0,0
+2016-05-08,Real Madrid Club de Fútbol,Valencia Club de Fútbol S. A. D.,2,0,79,0,0
+2016-05-14,Deportivo de La Coruña,Real Madrid Club de Fútbol,2,0,45,0,0
+2016-05-28,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,0,0,120,0,0
+2016-09-10,Real Madrid Club de Fútbol,Club Atlético Osasuna,1,0,66,0,0
+2016-09-14,Real Madrid Club de Fútbol,Sporting Clube de Portugal,1,0,90,0,0
+2016-09-21,Real Madrid Club de Fútbol,Villarreal Club de Fútbol S.A.D.,0,0,90,1,0
+2016-09-24,Unión Deportiva Las Palmas S.A.D.,Real Madrid Club de Fútbol,0,0,72,0,0
+2016-09-27,Borussia Dortmund,Real Madrid Club de Fútbol,1,0,90,0,0
+2016-10-02,Real Madrid Club de Fútbol,SD Eibar,0,1,90,0,0
+2016-10-15,Real Betis Balompié S.A.D.,Real Madrid Club de Fútbol,1,1,90,0,0
+2016-10-18,Real Madrid Club de Fútbol,,0,2,90,1,0
+2016-10-23,Real Madrid Club de Fútbol,Athletic Club Bilbao,0,0,90,0,0
+2016-10-29,Deportivo Alavés S.A.D.,Real Madrid Club de Fútbol,3,0,90,0,0
+2016-11-02,,Real Madrid Club de Fútbol,0,1,90,0,0
+2016-11-06,Real Madrid Club de Fútbol,Club Deportivo Leganés S.A.D.,0,0,90,1,0
+2016-11-19,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,3,0,83,1,0
+2016-11-22,Sporting Clube de Portugal,Real Madrid Club de Fútbol,0,1,90,0,0
+2016-11-26,Real Madrid Club de Fútbol,Sporting Gijón,2,0,90,0,0
+2016-12-03,Futbol Club Barcelona,Real Madrid Club de Fútbol,0,0,90,0,0
+2016-12-07,Real Madrid Club de Fútbol,Borussia Dortmund,0,0,90,0,0
+2016-12-15,,Real Madrid Club de Fútbol,1,0,90,0,0
+2016-12-18,Real Madrid Club de Fútbol,,3,0,112,0,0
+2017-01-07,Real Madrid Club de Fútbol,Granada CF,1,0,90,0,0
+2017-01-15,Sevilla Fútbol Club S.A.D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-01-18,Real Madrid Club de Fútbol,Real Club Celta de Vigo S. A. D.,0,0,90,0,0
+2017-01-21,Real Madrid Club de Fútbol,Málaga CF,0,0,90,0,0
+2017-01-25,Real Club Celta de Vigo S. A. D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-01-29,Real Madrid Club de Fútbol,Real Sociedad de Fútbol S.A.D.,1,1,90,0,0
+2017-02-11,Club Atlético Osasuna,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-02-15,Real Madrid Club de Fútbol,Società Sportiva Calcio Napoli,0,1,90,0,0
+2017-02-18,Real Madrid Club de Fútbol,Reial Club Deportiu Espanyol de Barcelona S.A.D.,0,0,90,0,0
+2017-02-22,Valencia Club de Fútbol S. A. D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-02-26,Villarreal Club de Fútbol S.A.D.,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-03-01,Real Madrid Club de Fútbol,Unión Deportiva Las Palmas S.A.D.,2,0,90,1,0
+2017-03-07,Società Sportiva Calcio Napoli,Real Madrid Club de Fútbol,0,1,90,0,0
+2017-03-12,Real Madrid Club de Fútbol,Real Betis Balompié S.A.D.,1,0,90,0,0
+2017-03-18,Athletic Club Bilbao,Real Madrid Club de Fútbol,0,2,79,0,0
+2017-04-02,Real Madrid Club de Fútbol,Deportivo Alavés S.A.D.,0,1,90,0,0
+2017-04-08,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,0,0,90,0,0
+2017-04-12,FC Bayern München,Real Madrid Club de Fútbol,2,0,90,0,0
+2017-04-18,Real Madrid Club de Fútbol,FC Bayern München,3,0,120,0,0
+2017-04-23,Real Madrid Club de Fútbol,Futbol Club Barcelona,0,0,90,0,0
+2017-04-29,Real Madrid Club de Fútbol,Valencia Club de Fútbol S. A. D.,1,0,90,0,0
+2017-05-02,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,3,0,90,0,0
+2017-05-10,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2017-05-14,Real Madrid Club de Fútbol,Sevilla Fútbol Club S.A.D.,2,0,90,0,0
+2017-05-17,Real Club Celta de Vigo S. A. D.,Real Madrid Club de Fútbol,2,0,84,0,0
+2017-05-21,Málaga CF,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-06-03,Juventus Football Club,Real Madrid Club de Fútbol,2,0,90,0,0
+2017-08-08,Real Madrid Club de Fútbol,Manchester United Football Club,0,0,7,0,0
+2017-08-13,Futbol Club Barcelona,Real Madrid Club de Fútbol,1,0,24,2,0
+2017-09-13,Real Madrid Club de Fútbol,,2,0,90,0,0
+2017-09-20,Real Madrid Club de Fútbol,Real Betis Balompié S.A.D.,0,0,90,0,0
+2017-09-23,Deportivo Alavés S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2017-09-26,Borussia Dortmund,Real Madrid Club de Fútbol,2,0,90,0,0
+2017-10-01,Real Madrid Club de Fútbol,Reial Club Deportiu Espanyol de Barcelona S.A.D.,0,1,90,0,0
+2017-10-14,Getafe Club de Fútbol S.A.D. Team Dubai,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-10-17,Real Madrid Club de Fútbol,Tottenham Hotspur Football Club,1,0,90,1,0
+2017-10-22,Real Madrid Club de Fútbol,SD Eibar,0,0,90,0,0
+2017-10-29,Girona Fútbol Club S. A. D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2017-11-01,Tottenham Hotspur Football Club,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-11-05,Real Madrid Club de Fútbol,Unión Deportiva Las Palmas S.A.D.,0,1,90,0,0
+2017-11-18,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2017-11-21,,Real Madrid Club de Fútbol,2,1,90,0,0
+2017-11-25,Real Madrid Club de Fútbol,Málaga CF,1,0,90,0,0
+2017-12-02,Athletic Club Bilbao,Real Madrid Club de Fútbol,0,0,90,1,0
+2017-12-06,Real Madrid Club de Fútbol,Borussia Dortmund,1,0,90,0,0
+2017-12-09,Real Madrid Club de Fútbol,Sevilla Fútbol Club S.A.D.,2,0,76,0,0
+2017-12-13,,Real Madrid Club de Fútbol,1,0,90,0,0
+2017-12-16,Real Madrid Club de Fútbol,,1,0,90,0,0
+2017-12-23,Real Madrid Club de Fútbol,Futbol Club Barcelona,0,0,90,0,0
+2018-01-07,Real Club Celta de Vigo S. A. D.,Real Madrid Club de Fútbol,0,0,90,0,0
+2018-01-13,Real Madrid Club de Fútbol,Villarreal Club de Fútbol S.A.D.,0,0,90,0,0
+2018-01-21,Real Madrid Club de Fútbol,Deportivo de La Coruña,2,1,90,0,0
+2018-01-27,Valencia Club de Fútbol S. A. D.,Real Madrid Club de Fútbol,2,0,90,0,0
+2018-02-03,Levante UD,Real Madrid Club de Fútbol,0,0,82,0,0
+2018-02-10,Real Madrid Club de Fútbol,Real Sociedad de Fútbol S.A.D.,3,1,90,0,0
+2018-02-14,Real Madrid Club de Fútbol,Paris Saint-Germain Football Club,2,0,90,0,0
+2018-02-18,Real Betis Balompié S.A.D.,Real Madrid Club de Fútbol,1,0,89,0,0
+2018-02-24,Real Madrid Club de Fútbol,Deportivo Alavés S.A.D.,2,0,90,0,0
+2018-03-03,Real Madrid Club de Fútbol,Getafe Club de Fútbol S.A.D. Team Dubai,2,0,79,0,0
+2018-03-06,Paris Saint-Germain Football Club,Real Madrid Club de Fútbol,1,1,90,0,0
+2018-03-10,SD Eibar,Real Madrid Club de Fútbol,2,0,90,0,0
+2018-03-18,Real Madrid Club de Fútbol,Girona Fútbol Club S. A. D.,4,1,90,0,0
+2018-04-03,Juventus Football Club,Real Madrid Club de Fútbol,2,1,90,0,0
+2018-04-08,Real Madrid Club de Fútbol,Club Atlético de Madrid S.A.D.,1,0,64,0,0
+2018-04-11,Real Madrid Club de Fútbol,Juventus Football Club,1,0,90,1,0
+2018-04-18,Real Madrid Club de Fútbol,Athletic Club Bilbao,1,0,90,0,0
+2018-04-25,FC Bayern München,Real Madrid Club de Fútbol,0,0,90,0,0
+2018-05-01,Real Madrid Club de Fútbol,FC Bayern München,0,0,90,0,0
+2018-05-06,Futbol Club Barcelona,Real Madrid Club de Fútbol,1,0,45,0,0
+2018-05-19,Villarreal Club de Fútbol S.A.D.,Real Madrid Club de Fútbol,1,0,62,0,0
+2018-05-26,Real Madrid Club de Fútbol,Liverpool Football Club,0,0,90,0,0
+2018-08-18,Chievo Verona,Juventus Football Club,0,0,90,0,0
+2018-08-25,Juventus Football Club,Società Sportiva Lazio S.p.A.,0,1,90,0,0
+2018-09-01,Parma Calcio 1913,Juventus Football Club,0,0,90,0,0
+2018-09-16,Juventus Football Club,US Sassuolo,2,0,90,0,0
+2018-09-19,Valencia Club de Fútbol S. A. D.,Juventus Football Club,0,0,29,0,1
+2018-09-23,Frosinone Calcio,Juventus Football Club,1,0,90,0,0
+2018-09-26,Juventus Football Club,Bologna Football Club 1909,0,1,90,0,0
+2018-09-29,Juventus Football Club,Società Sportiva Calcio Napoli,0,2,90,0,0
+2018-10-06,Udinese Calcio,Juventus Football Club,1,0,90,0,0
+2018-10-20,Juventus Football Club,Genoa Cricket and Football Club,1,0,90,0,0
+2018-10-23,Manchester United Football Club,Juventus Football Club,0,0,90,0,0
+2018-10-27,Empoli Football Club S.r.l.,Juventus Football Club,2,0,90,0,0
+2018-11-03,Juventus Football Club,Cagliari Calcio,0,1,90,0,0
+2018-11-07,Juventus Football Club,Manchester United Football Club,1,0,90,0,0
+2018-11-11,Associazione Calcio Milan,Juventus Football Club,1,0,90,0,0
+2018-11-24,Juventus Football Club,SPAL,1,0,90,0,0
+2018-11-27,Juventus Football Club,Valencia Club de Fútbol S. A. D.,0,1,90,0,0
+2018-12-01,Associazione Calcio Fiorentina,Juventus Football Club,1,0,80,1,0
+2018-12-07,Juventus Football Club,Football Club Internazionale Milano S.p.A.,0,0,90,0,0
+2018-12-12,,Juventus Football Club,0,1,90,0,0
+2018-12-15,Torino Calcio,Juventus Football Club,1,0,90,1,0
+2018-12-22,Juventus Football Club,Associazione Sportiva Roma,0,0,90,0,0
+2018-12-26,Atalanta Bergamasca Calcio S.p.a.,Juventus Football Club,1,0,25,0,0
+2018-12-29,Juventus Football Club,UC Sampdoria,2,0,90,0,0
+2019-01-12,Bologna Football Club 1909,Juventus Football Club,0,0,28,0,0
+2019-01-16,Juventus Football Club,Associazione Calcio Milan,1,0,90,0,0
+2019-01-21,Juventus Football Club,Chievo Verona,0,0,90,0,0
+2019-01-27,Società Sportiva Lazio S.p.A.,Juventus Football Club,1,0,90,0,0
+2019-01-30,Atalanta Bergamasca Calcio S.p.a.,Juventus Football Club,0,0,90,0,0
+2019-02-02,Juventus Football Club,Parma Calcio 1913,2,1,90,0,0
+2019-02-10,US Sassuolo,Juventus Football Club,1,1,90,0,0
+2019-02-15,Juventus Football Club,Frosinone Calcio,1,1,64,0,0
+2019-02-20,Club Atlético de Madrid S.A.D.,Juventus Football Club,0,0,90,0,0
+2019-02-24,Bologna Football Club 1909,Juventus Football Club,0,0,90,0,0
+2019-03-03,Società Sportiva Calcio Napoli,Juventus Football Club,0,0,90,0,0
+2019-03-12,Juventus Football Club,Club Atlético de Madrid S.A.D.,3,0,90,0,0
+2019-04-10,AFC Ajax Amsterdam,Juventus Football Club,1,0,90,0,0
+2019-04-16,Juventus Football Club,AFC Ajax Amsterdam,1,0,90,1,0
+2019-04-20,Juventus Football Club,Associazione Calcio Fiorentina,0,0,90,0,0
+2019-04-27,Football Club Internazionale Milano S.p.A.,Juventus Football Club,1,0,90,0,0
+2019-05-03,Juventus Football Club,Torino Calcio,1,0,90,0,0
+2019-05-12,Associazione Sportiva Roma,Juventus Football Club,0,0,90,0,0
+2019-05-19,Juventus Football Club,Atalanta Bergamasca Calcio S.p.a.,0,0,90,1,0
+2019-08-24,Parma Calcio 1913,Juventus Football Club,0,0,90,0,0
+2019-08-31,Juventus Football Club,Società Sportiva Calcio Napoli,1,0,90,0,0
+2019-09-14,Associazione Calcio Fiorentina,Juventus Football Club,0,0,90,0,0
+2019-09-18,Club Atlético de Madrid S.A.D.,Juventus Football Club,0,0,90,0,0
+2019-09-21,Juventus Football Club,Verona Hellas Football Club,1,1,90,0,0
+2019-09-28,Juventus Football Club,SPAL,1,0,90,0,0
+2019-10-01,Juventus Football Club,Bayer 04 Leverkusen Fußball,1,0,90,0,0
+2019-10-06,Football Club Internazionale Milano S.p.A.,Juventus Football Club,0,0,90,0,0
+2019-10-19,Juventus Football Club,Bologna Football Club 1909,1,0,90,0,0
+2019-10-22,Juventus Football Club,"""Футбольный клуб """"Локомотив"""" Москва""",0,0,90,0,0
+2019-10-30,Juventus Football Club,Genoa Cricket and Football Club,1,0,90,0,0
+2019-11-02,Torino Calcio,Juventus Football Club,0,0,90,0,0
+2019-11-06,"""Футбольный клуб """"Локомотив"""" Москва""",Juventus Football Club,0,1,82,0,0
+2019-11-10,Juventus Football Club,Associazione Calcio Milan,0,0,55,0,0
+2019-11-26,Juventus Football Club,Club Atlético de Madrid S.A.D.,0,0,90,0,0
+2019-12-01,Juventus Football Club,US Sassuolo,1,0,90,0,0
+2019-12-07,Società Sportiva Lazio S.p.A.,Juventus Football Club,1,0,90,0,0
+2019-12-11,Bayer 04 Leverkusen Fußball,Juventus Football Club,1,0,90,0,0
+2019-12-15,Juventus Football Club,Udinese Calcio,2,0,90,0,0
+2019-12-18,UC Sampdoria,Juventus Football Club,1,0,90,0,0
+2019-12-22,Juventus Football Club,Società Sportiva Lazio S.p.A.,0,0,90,0,0
+2020-01-06,Juventus Football Club,Cagliari Calcio,3,1,90,0,0
+2020-01-12,Associazione Sportiva Roma,Juventus Football Club,1,0,90,0,0
+2020-01-19,Juventus Football Club,Parma Calcio 1913,2,0,90,0,0
+2020-01-22,Juventus Football Club,Associazione Sportiva Roma,1,0,90,0,0
+2020-01-26,Società Sportiva Calcio Napoli,Juventus Football Club,1,0,90,1,0
+2020-02-02,Juventus Football Club,Associazione Calcio Fiorentina,2,0,90,0,0
+2020-02-08,Verona Hellas Football Club,Juventus Football Club,1,0,90,0,0
+2020-02-13,Associazione Calcio Milan,Juventus Football Club,1,0,90,0,0
+2020-02-22,SPAL,Juventus Football Club,1,0,90,0,0
+2020-02-26,Olympique Lyonnais,Juventus Football Club,0,0,90,0,0
+2020-03-08,Juventus Football Club,Football Club Internazionale Milano S.p.A.,0,1,90,1,0
+2020-06-12,Juventus Football Club,Associazione Calcio Milan,0,0,90,0,0
+2020-06-17,Società Sportiva Calcio Napoli,Juventus Football Club,0,0,90,0,0
+2020-06-22,Bologna Football Club 1909,Juventus Football Club,1,0,90,0,0
+2020-06-26,Juventus Football Club,Unione Sportiva Lecce,1,2,90,0,0
+2020-06-30,Genoa Cricket and Football Club,Juventus Football Club,1,0,74,0,0
+2020-07-04,Juventus Football Club,Torino Calcio,1,1,90,0,0
+2020-07-07,Associazione Calcio Milan,Juventus Football Club,1,0,90,0,0
+2020-07-11,Juventus Football Club,Atalanta Bergamasca Calcio S.p.a.,2,0,90,0,0
+2020-07-15,US Sassuolo,Juventus Football Club,0,0,90,1,0
+2020-07-20,Juventus Football Club,Società Sportiva Lazio S.p.A.,2,0,90,0,0
+2020-07-23,Udinese Calcio,Juventus Football Club,0,0,90,0,0
+2020-07-26,Juventus Football Club,UC Sampdoria,1,0,90,0,0
+2020-07-29,Cagliari Calcio,Juventus Football Club,0,0,90,0,0
+2020-08-07,Juventus Football Club,Olympique Lyonnais,2,0,90,0,0
+2020-09-20,Juventus Football Club,UC Sampdoria,1,0,90,0,0
+2020-09-27,Associazione Sportiva Roma,Juventus Football Club,2,0,90,0,0
+2020-11-01,Spezia Calcio,Juventus Football Club,2,0,34,0,0
+2020-11-04,,Juventus Football Club,0,1,90,0,0
+2020-11-08,Società Sportiva Lazio S.p.A.,Juventus Football Club,1,0,76,0,0
+2020-11-21,Juventus Football Club,Cagliari Calcio,2,0,90,0,0
+2020-11-24,Juventus Football Club,,1,0,90,0,0
+2020-12-02,Juventus Football Club,Futbolniy Klub Dynamo Kyiv,1,0,90,0,0
+2020-12-05,Juventus Football Club,Torino Calcio,0,0,90,0,0
+2020-12-08,Futbol Club Barcelona,Juventus Football Club,2,0,90,0,0
+2020-12-13,Genoa Cricket and Football Club,Juventus Football Club,2,0,90,0,0
+2020-12-16,Juventus Football Club,Atalanta Bergamasca Calcio S.p.a.,0,0,90,0,0
+2020-12-19,Parma Calcio 1913,Juventus Football Club,2,0,82,0,0
+2020-12-22,Juventus Football Club,Associazione Calcio Fiorentina,0,0,90,0,0
+2021-01-03,Juventus Football Club,Udinese Calcio,2,1,90,0,0
+2021-01-06,Associazione Calcio Milan,Juventus Football Club,0,0,90,0,0
+2021-01-10,Juventus Football Club,US Sassuolo,1,0,90,0,0
+2021-01-13,Juventus Football Club,Genoa Cricket and Football Club,0,0,32,0,0
+2021-01-17,Football Club Internazionale Milano S.p.A.,Juventus Football Club,0,0,90,0,0
+2021-01-20,Juventus Football Club,Società Sportiva Calcio Napoli,1,0,90,1,0
+2021-01-24,Juventus Football Club,Bologna Football Club 1909,0,1,90,0,0
+2021-01-30,UC Sampdoria,Juventus Football Club,0,0,90,0,0
+2021-02-02,Football Club Internazionale Milano S.p.A.,Juventus Football Club,2,0,76,1,0
+2021-02-06,Juventus Football Club,Associazione Sportiva Roma,1,0,90,1,0
+2021-02-09,Juventus Football Club,Football Club Internazionale Milano S.p.A.,0,0,90,0,0
+2021-02-13,Società Sportiva Calcio Napoli,Juventus Football Club,0,0,90,0,0
+2021-02-17,Futebol Clube do Porto,Juventus Football Club,0,0,90,0,0
+2021-02-22,Juventus Football Club,FC Crotone,2,0,90,0,0
+2021-02-27,Verona Hellas Football Club,Juventus Football Club,1,0,90,0,0
+2021-03-02,Juventus Football Club,Spezia Calcio,1,0,90,0,0
+2021-03-06,Juventus Football Club,Società Sportiva Lazio S.p.A.,0,0,21,0,0
+2021-03-09,Juventus Football Club,Futebol Clube do Porto,0,1,120,0,0
+2021-03-14,Cagliari Calcio,Juventus Football Club,3,0,90,1,0
+2021-03-21,Juventus Football Club,Benevento Calcio,0,0,90,0,0
+2021-04-03,Torino Calcio,Juventus Football Club,1,0,90,0,0
+2021-04-07,Juventus Football Club,Società Sportiva Calcio Napoli,1,0,90,0,0
+2021-04-11,Juventus Football Club,Genoa Cricket and Football Club,0,0,90,0,0
+2021-04-21,Juventus Football Club,Parma Calcio 1913,0,0,90,1,0
+2021-04-25,Associazione Calcio Fiorentina,Juventus Football Club,0,0,90,0,0
+2021-05-02,Udinese Calcio,Juventus Football Club,2,0,90,0,0
+2021-05-09,Juventus Football Club,Associazione Calcio Milan,0,0,90,0,0
+2021-05-12,US Sassuolo,Juventus Football Club,1,0,90,0,0
+2021-05-15,Juventus Football Club,Football Club Internazionale Milano S.p.A.,1,0,70,0,0
+2021-05-19,Atalanta Bergamasca Calcio S.p.a.,Juventus Football Club,0,0,90,0,0
+2021-08-22,Udinese Calcio,Juventus Football Club,0,0,30,1,0
+2021-09-11,Manchester United Football Club,Newcastle United Football Club,2,0,90,0,0
+2021-09-14,,Manchester United Football Club,1,0,72,0,0
+2021-09-19,West Ham United Football Club,Manchester United Football Club,1,0,90,0,0
+2021-09-25,Manchester United Football Club,Aston Villa Football Club,0,0,90,0,0
+2021-09-29,Manchester United Football Club,Villarreal Club de Fútbol S.A.D.,1,0,90,1,0
+2021-10-02,Manchester United Football Club,Everton Football Club,0,0,33,0,0
+2021-10-16,Leicester City Football Club,Manchester United Football Club,0,0,90,0,0
+2021-10-20,Manchester United Football Club,Atalanta Bergamasca Calcio S.p.a.,1,0,90,0,0
+2021-10-24,Manchester United Football Club,Liverpool Football Club,0,0,90,1,0
+2021-10-30,Tottenham Hotspur Football Club,Manchester United Football Club,1,1,71,0,0
+2021-11-02,Atalanta Bergamasca Calcio S.p.a.,Manchester United Football Club,2,0,90,0,0
+2021-11-06,Manchester United Football Club,Manchester City Football Club,0,0,90,1,0
+2021-11-20,Watford FC,Manchester United Football Club,0,1,90,0,0
+2021-11-23,Villarreal Club de Fútbol S.A.D.,Manchester United Football Club,1,0,90,0,0
+2021-11-28,Chelsea Football Club,Manchester United Football Club,0,0,26,1,0
+2021-12-02,Manchester United Football Club,Arsenal Football Club,2,0,88,0,0
+2021-12-05,Manchester United Football Club,Crystal Palace Football Club,0,0,90,0,0
+2021-12-11,Norwich City,Manchester United Football Club,1,0,90,0,0
+2021-12-27,Newcastle United Football Club,Manchester United Football Club,0,0,90,1,0
+2021-12-30,Manchester United Football Club,Burnley FC,1,1,90,0,0
+2022-01-03,Manchester United Football Club,Wolverhampton Wanderers Football Club,0,0,90,0,0
+2022-01-19,Brentford Football Club,Manchester United Football Club,0,0,71,0,0
+2022-01-22,Manchester United Football Club,West Ham United Football Club,0,0,90,0,0
+2022-02-04,Manchester United Football Club,Middlesbrough FC,0,0,120,0,0
+2022-02-08,Burnley FC,Manchester United Football Club,0,0,22,0,0
+2022-02-12,Manchester United Football Club,Southampton Football Club,0,0,90,0,0
+2022-02-15,Manchester United Football Club,Brighton and Hove Albion Football Club,1,0,90,0,0
+2022-02-20,Leeds United,Manchester United Football Club,0,0,85,1,0
+2022-02-23,Club Atlético de Madrid S.A.D.,Manchester United Football Club,0,0,90,0,0
+2022-02-26,Manchester United Football Club,Watford FC,0,0,90,0,0
+2022-03-12,Manchester United Football Club,Tottenham Hotspur Football Club,3,0,83,0,0
+2022-03-15,Manchester United Football Club,Club Atlético de Madrid S.A.D.,0,0,90,0,0
+2022-04-09,Everton Football Club,Manchester United Football Club,0,0,90,1,0
+2022-04-16,Manchester United Football Club,Norwich City,3,0,90,0,0
+2022-04-23,Arsenal Football Club,Manchester United Football Club,1,0,90,1,0
+2022-04-28,Manchester United Football Club,Chelsea Football Club,1,0,90,0,0
+2022-05-02,Manchester United Football Club,Brentford Football Club,1,0,90,0,0
+2022-05-07,Brighton and Hove Albion Football Club,Manchester United Football Club,0,0,90,1,0
+2022-08-07,Manchester United Football Club,Brighton and Hove Albion Football Club,0,0,37,0,0
+2022-08-13,Brentford Football Club,Manchester United Football Club,0,0,90,0,0
+2022-08-22,Manchester United Football Club,Liverpool Football Club,0,0,4,0,0
+2022-08-27,Southampton Football Club,Manchester United Football Club,0,0,22,0,0
+2022-09-01,Leicester City Football Club,Manchester United Football Club,0,0,22,0,0
+2022-09-04,Manchester United Football Club,Arsenal Football Club,0,0,32,0,0
+2022-09-08,Manchester United Football Club,Real Sociedad de Fútbol S.A.D.,0,0,90,0,0
+2022-09-15,,Manchester United Football Club,1,0,81,0,0
+2022-10-06,,Manchester United Football Club,0,1,90,0,0
+2022-10-09,Everton Football Club,Manchester United Football Club,1,0,61,0,0
+2022-10-13,Manchester United Football Club,,0,0,90,0,0
+2022-10-16,Manchester United Football Club,Newcastle United Football Club,0,0,72,1,0
+2022-10-27,Manchester United Football Club,,1,0,90,0,0
+2022-10-30,Manchester United Football Club,West Ham United Football Club,0,0,90,0,0
+2022-11-03,Real Sociedad de Fútbol S.A.D.,Manchester United Football Club,0,1,90,1,0
+2022-11-06,Aston Villa Football Club,Manchester United Football Club,0,0,90,1,0
