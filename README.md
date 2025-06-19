@@ -29,13 +29,13 @@
 ## 📷 Sample Output
 
 ### 🟢 Power BI Report Overview
-![Power BI Report](screenshots/ronaldo_report_screenshot.png)
+![Power BI Report](screenshots/ronaldo_report_screenshot.jpg)
 
 ### 🛠️ Fabric Pipeline - Stage 4 Success
-![Pipeline Stage 4](https://github.com/yourusername/ronaldo-performance-analytics-fabric-databricks/blob/main/screenshots/pipeline_stage4_run.png)
+![Pipeline Stage 4](https://github.com/yourusername/ronaldo-performance-analytics-fabric-databricks/blob/main/screenshots/pipeline_stage4_run.jpg)
 
 ### 📬 Gmail Notification Triggered
-![Gmail Screenshot](screenshots/gmail_notification_success.png)
+![Gmail Screenshot](screenshots/gmail_notification_success.jpg)
 
 <p float="left">
   <img src="screenshots/pipeline_stage4_run.png" width="350"/>
