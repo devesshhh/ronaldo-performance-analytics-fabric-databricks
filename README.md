@@ -32,8 +32,7 @@
 ![Power BI Report](screenshots/ronaldo_report_screenshot.png)
 
 ### 🛠️ Fabric Pipeline - Stage 4 Success
-![Pipeline Stage 4]([screenshots/pipeline_stage4_run.png](https://github.com/yourusername/ronaldo-performance-analytics-fabric-databricks/blob/main/screenshots/pipeline_stage4_run.png
-))
+![Pipeline Stage 4](https://github.com/yourusername/ronaldo-performance-analytics-fabric-databricks/blob/main/screenshots/pipeline_stage4_run.png)
 
 ### 📬 Gmail Notification Triggered
 ![Gmail Screenshot](screenshots/gmail_notification_success.png)
