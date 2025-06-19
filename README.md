@@ -32,19 +32,16 @@
 ![Stage 2](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/pipeline_stage2_run.jpg)
 
 ### ✅ Fabric Pipeline Stage 3  
-![Stage 3](https://githubusercontent.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/pipeline_stage3_run.jpg)
+![Stage 3](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/pipeline_stage3_run.jpg)
 
 ### ✅ Fabric Pipeline Stage 4  
-![Stage 4](https://githubusercontent.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/pipeline_stage4_run.jpg)
-
-### 📉 Fabric Pipeline Below Stage 2  
-![Below Stage 2](https://githubusercontent.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/pipeline_below_stage2_run.jpg)
+![Stage 4](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/pipeline_stage4_run.jpg)
 
 ### 📬 Gmail Notification  
-![Gmail](https://githubusercontent.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/gmail_notification_success.jpg)
+![Gmail](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/gmail_notification_success.jpg)
 
 ### 📊 Power BI Report Preview  
-![Power BI](https://githubusercontent.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/ronaldo_report_preview.png)
+![Power BI](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/ronaldo_report_preview.png)
 
 ⚠️ Note: The `.pbix` file is included for transparency and learning purposes. Please do not reuse or republish without permission.
 
