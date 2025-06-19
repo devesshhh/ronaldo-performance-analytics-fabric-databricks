@@ -27,7 +27,17 @@
 - `powerbi_report/`: Final report PDF (for resume/github)
 
 ## 📷 Sample Output
-_Add 2-3 images here: cards section, goals chart, pipeline run screenshot_
+
+### 🟢 Power BI Report Overview
+![Power BI Report](screenshots/ronaldo_report_screenshot.png)
+
+### 🛠️ Fabric Pipeline - Stage 4 Success
+![Pipeline Stage 4](screenshots/pipeline_stage4_run.png)
+
+### 📬 Gmail Notification Triggered
+![Gmail Screenshot](screenshots/gmail_notification_success.png)
+
+⚠️ Note: The `.pbix` file is included for transparency and learning purposes. Please do not reuse or republish without permission.
 
 ## 📬 Contact
 Feel free to reach out for collaboration or feedback: `deveshrai162@gmail.com`
