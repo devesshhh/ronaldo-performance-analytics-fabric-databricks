@@ -4,7 +4,7 @@
 
 ## 🔧 Tech Stack
 - Databricks (PySpark)
-- Microsoft Fabric (Lakehouse, Dataflow Gen2, Pipeline)
+- Microsoft Fabric (Lakehouse, Dataflow Gen2, Pipeline, Notebook)
 - Power BI (Service + Report PDF)
 
 ## 📊 What I Did
