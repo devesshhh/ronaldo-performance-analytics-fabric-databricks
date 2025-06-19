@@ -37,6 +37,12 @@
 ### 📬 Gmail Notification Triggered
 ![Gmail Screenshot](screenshots/gmail_notification_success.png)
 
+<p float="left">
+  <img src="screenshots/pipeline_stage4_run.png" width="350"/>
+  <img src="screenshots/gmail_notification_success.png" width="350"/>
+</p>
+
+
 ⚠️ Note: The `.pbix` file is included for transparency and learning purposes. Please do not reuse or republish without permission.
 
 ## 📬 Contact
