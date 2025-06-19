@@ -30,19 +30,19 @@
 
 
 ### ✅ Fabric Pipeline Stage 2
-![Stage 2](screenshots/pipeline_stage2_run.jpg)
+![Stage 2](Screenshots/pipeline_stage2_run.jpg)
 
 ### ✅ Fabric Pipeline Stage 3
-![Stage 3](screenshots/pipeline_stage3_run.jpg)
+![Stage 3](Screenshots/pipeline_stage3_run.jpg)
 
 ### ✅ Fabric Pipeline Stage 4
-![Stage 4](screenshots/pipeline_stage4_run.jpg)
+![Stage 4](Screenshots/pipeline_stage4_run.jpg)
 
 ### 📬 Gmail Notification Sent
-![Gmail](screenshots/gmail_notification_success.jpg)
+![Gmail](Screenshots/gmail_notification_success.jpg)
 
 ### 📊 Power BI Report Preview
-![Power BI Report](screenshots/ronaldo_report_preview.png)
+![Power BI Report](Screenshots/ronaldo_report_preview.png)
 
 
 ⚠️ Note: The `.pbix` file is included for transparency and learning purposes. Please do not reuse or republish without permission.
