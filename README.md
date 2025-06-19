@@ -28,19 +28,21 @@
 
 ## 📷 Sample Output
 
-### 🟢 Power BI Report Overview
-![Power BI Report](screenshots/ronaldo_report_screenshot.jpg)
 
-### 🛠️ Fabric Pipeline - Stage 4 Success
-![Pipeline Stage 4](https://github.com/yourusername/ronaldo-performance-analytics-fabric-databricks/blob/main/screenshots/pipeline_stage4_run.jpg)
+### ✅ Fabric Pipeline Stage 2
+![Stage 2](screenshots/pipeline_stage2_run.jpg)
 
-### 📬 Gmail Notification Triggered
-![Gmail Screenshot](screenshots/gmail_notification_success.jpg)
+### ✅ Fabric Pipeline Stage 3
+![Stage 3](screenshots/pipeline_stage3_run.jpg)
 
-<p float="left">
-  <img src="screenshots/pipeline_stage4_run.png" width="350"/>
-  <img src="screenshots/gmail_notification_success.png" width="350"/>
-</p>
+### ✅ Fabric Pipeline Stage 4
+![Stage 4](screenshots/pipeline_stage4_run.jpg)
+
+### 📬 Gmail Notification Sent
+![Gmail](screenshots/gmail_notification_success.jpg)
+
+### 📊 Power BI Report Preview
+![Power BI Report](screenshots/ronaldo_report_preview.png)
 
 
 ⚠️ Note: The `.pbix` file is included for transparency and learning purposes. Please do not reuse or republish without permission.
