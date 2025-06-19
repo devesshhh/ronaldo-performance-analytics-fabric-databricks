@@ -30,7 +30,8 @@
 
 
 ### ✅ Fabric Pipeline Stage 2  
-![Stage 2](https://raw.githubusercontent.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/main/Screenshots/pipeline_stage2_run.jpg)
+![Stage 2](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo-performance-analytics-fabric-databricks/Screenshots/pipeline_stage2_run.jpg
+)
 
 ### ✅ Fabric Pipeline Stage 3  
 ![Stage 3](https://raw.githubusercontent.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/main/Screenshots/pipeline_stage3_run.jpg)
