@@ -26,23 +26,23 @@
 - `exported_data/`: 5 clean Delta tables exported as CSV
 - `powerbi_report/`: Final report PDF (for resume/github)
 
-## 📷 Sample Output
+## 📸 Project Snapshots
 
 
 ### ✅ Fabric Pipeline Stage 2
-![Stage 2](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/pipeline_stage2_run.jpg?raw=true)
+![Stage 2](Screenshots/pipeline_stage2_run.jpg)
 
 ### ✅ Fabric Pipeline Stage 3
 ![Stage 3](Screenshots/pipeline_stage3_run.jpg)
 
 ### ✅ Fabric Pipeline Stage 4
-![Stage 4](Screenshots/pipeline_stage4_run.jpg/)
+![Stage 4](Screenshots/pipeline_stage4_run.jpg)
 
 ### 📬 Gmail Notification Sent
-![Gmail](/Screenshots/gmail_notification_success.jpg)
+![Gmail](Screenshots/gmail_notification_success.jpg)
 
 ### 📊 Power BI Report Preview
-![Power BI Report](Screenshots/ronaldo_report_preview.png)
+![Power BI](Screenshots/ronaldo_report_preview.png)
 
 
 ⚠️ Note: The `.pbix` file is included for transparency and learning purposes. Please do not reuse or republish without permission.
