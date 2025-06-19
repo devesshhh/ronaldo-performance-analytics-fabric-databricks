@@ -28,22 +28,20 @@
 
 ## 📸 Project Snapshots
 
+### ✅ Fabric Pipeline Stage 2  
+![Stage 2](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/pipeline_stage2_run.jpg?raw=true)
 
-### ✅ Fabric Pipeline Stage 2
-![Stage 2](Screenshots/pipeline_stage2_run.jpg)
+### ✅ Fabric Pipeline Stage 3  
+![Stage 3](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/pipeline_stage3_run.jpg?raw=true)
 
-### ✅ Fabric Pipeline Stage 3
-![Stage 3](Screenshots/pipeline_stage3_run.jpg)
+### ✅ Fabric Pipeline Stage 4  
+![Stage 4](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/pipeline_stage4_run.jpg?raw=true)
 
-### ✅ Fabric Pipeline Stage 4
-![Stage 4](Screenshots/pipeline_stage4_run.jpg)
+### 📬 Gmail Notification  
+![Gmail](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/gmail_notification_success.jpg?raw=true)
 
-### 📬 Gmail Notification Sent
-![Gmail](Screenshots/gmail_notification_success.jpg)
-
-### 📊 Power BI Report Preview
-![Power BI](Screenshots/ronaldo_report_preview.png)
-
+### 📊 Power BI Report Preview  
+![Power BI](https://github.com/devesshhh/ronaldo-performance-analytics-fabric-databricks/blob/main/ronaldo_report_preview.png?raw=true)
 
 ⚠️ Note: The `.pbix` file is included for transparency and learning purposes. Please do not reuse or republish without permission.
 
