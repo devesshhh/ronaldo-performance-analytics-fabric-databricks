@@ -24,7 +24,7 @@
 - `notebooks/`: PySpark notebooks used in Fabric
 - `screenshots/`: Proof of pipeline run success
 - `exported_data/`: 5 clean Delta tables exported as CSV
-- `powerbi_report/`: Final report PDF (for resume/github)
+- `powerbi_report/`: Final report PDF 
 
 ## 📸 Project Snapshots
 
